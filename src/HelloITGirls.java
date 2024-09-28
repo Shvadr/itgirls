@@ -3,3 +3,9 @@ public class HelloITGirls {
         System.out.println("Hello IT Girls!");
     }
 }
+
+// JavaScript
+// console.log("Hello world!")
+
+// Java
+// System.out.println("Hello world!");
